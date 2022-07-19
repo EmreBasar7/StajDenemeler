@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web1", "Web1\Web1.csproj", "{9939F24D-4ACB-42DD-8DF2-0C8A020CCD72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTabani", "veritabani2\VeriTabani.csproj", "{7131751B-0E40-4993-9137-46D57A5E9304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9939F24D-4ACB-42DD-8DF2-0C8A020CCD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9939F24D-4ACB-42DD-8DF2-0C8A020CCD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9939F24D-4ACB-42DD-8DF2-0C8A020CCD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9939F24D-4ACB-42DD-8DF2-0C8A020CCD72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7131751B-0E40-4993-9137-46D57A5E9304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7131751B-0E40-4993-9137-46D57A5E9304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7131751B-0E40-4993-9137-46D57A5E9304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7131751B-0E40-4993-9137-46D57A5E9304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC4CD7C-1253-40F1-BBCE-9171F556B788}
+	EndGlobalSection
+EndGlobal
